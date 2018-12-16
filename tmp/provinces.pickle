@@ -1,0 +1,15 @@
+c__builtin__
+set
+p0
+((lp1
+S'ON'
+p2
+aS'QC'
+p3
+aS'\x1b[A'
+p4
+aS'L3S'
+p5
+atp6
+Rp7
+.
